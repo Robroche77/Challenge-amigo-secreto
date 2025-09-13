@@ -20,5 +20,31 @@ Durante el desarrollo se aplicaron los siguientes conceptos:
 
 El proyecto finalizado permite reforzar habilidades en lógica de programación, enfocándose en la resolución de problemas mediante JavaScript y consolidando la base necesaria para abordar proyectos más complejos en el futuro.
 
-<img width="1223" height="574" alt="image" src="https://github.com/user-attachments/assets/97002b8a-6a45-4883-849a-577a79cb0587" />
 
+
+<h2>Descripcion de uso</h2>
+<ol>
+
+ <li>Primeramente, te encontraras con la pantalla inicial de la pagina web, donde te solicita ingresar los nombres de los participantes.</li>
+
+ <img src="imagenes/1.jpg">
+
+ <li>Para agregar a los participantes del juego, necesitaras ingresar el primer nombre en la barra de texto que indica "Escribe un nombre". Luego clickear el boton de añadir. Realizar estos mismos pasos para cada nombre.</li>
+
+ <img src="imagenes/2.jpg">
+
+ <li>Al añadir todos los nombres podras sortearlos al clickear el boton de "Sortear amigo". Posteriormente se mostrara el nombre del amigo secreto sorteado.</li>
+
+ <img src="imagenes/3.jpg">
+</ol>
+
+
+<h3>Nota</h3>
+
+Al clickear el boton de "añadir" ubicado en el lado derecho de la barra de texto de "Escribir amigo" sin haber añadido ningun nombre a la barra de texto, aparecera una alerta que te indica "Por favor, inserte un nombre."
+
+<img src="imagenes/4.jpg">
+
+De igual manera sucede al clickear el boton de "Sortear amigo" sin haber añadido ningun nombre.
+
+<img src="imagenes/5.jpg">
